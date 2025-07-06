@@ -19,8 +19,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ["5491130850938", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], // El número del bot (opcionalmente con nombre y flag de ser primario)
 ["5493884873421", 'Mi Numero Personal', true] // Tu número personal, también como propietario
-]; // ¡Aquí ya NO va coma después del último elemento!
-
+];
    
 global.mods = []
 global.prems = []
