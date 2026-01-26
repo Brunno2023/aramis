@@ -18,8 +18,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["5491130850938", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], // El número del bot (opcionalmente con nombre y flag de ser primario)
-["5493884873421", 'Mi Numero Personal', true] // Tu número personal, también como propietario
-];
+["5493884873421", 'Mi Numero Personal', true] ] // Tu número personal, también como propietario
    
 global.mods = []
 global.prems = []
